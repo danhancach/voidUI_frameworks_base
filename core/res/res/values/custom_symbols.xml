@@ -112,4 +112,7 @@
     <!-- Ignore post running notifications for selected apps -->
     <java-symbol type="array" name="config_postNotificationIgnoredApps" />
 
+    <!-- App version -->
+    <java-symbol type="string" name="old_version_number" />
+    <java-symbol type="string" name="new_version_number" />
 </resources>
