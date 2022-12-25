@@ -717,7 +717,7 @@
 
     <style name="ChargingAnim.Background">
         <item name="chargingAnimColor">@*android:color/system_accent1_100</item>
-        <item name="android:textColor">@*android:color/system_accent1_100</item>
+        <item name="android:textColor">@*android:color/system_accent1_50</item>
     </style>
 
     <!-- Screen recording -->
