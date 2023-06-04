@@ -90,7 +90,8 @@ public class PixelPropsUtils {
 
     private static final Map<String, Object> propsToChangeK30U;
     private static final String[] packagesToChangeK30U = {
-            "com.pubg.imobile"
+            "com.pubg.imobile",
+            "com.tencent.tmgp.sgame"
     };
 
     private static final Map<String, Object> propsToChangeXP5;
@@ -124,8 +125,7 @@ public class PixelPropsUtils {
     private static final Map<String, Object> propsToChangeMI11T;
     private static final String[] packagesToChangeMI11T = {
             "com.ea.gp.apexlegendsmobilefps",
-            "com.mobile.legends",
-            "com.tencent.tmgp.sgame"
+            "com.mobile.legends"
     };
 
     private static final Map<String, Object> propsToChangeF4;
